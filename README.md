@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-mock-http.
+
 # think-mock-http
 [![Build Status](https://travis-ci.org/thinkjs/think-mock-http.svg?branch=master)](https://travis-ci.org/thinkjs/think-mock-http)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-mock-http/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-mock-http?branch=master)
